@@ -1,6 +1,6 @@
 <?php 
 	
-	$operador = 4;
+	$operador = 3;
 	$num1 = 10;
 	$num2 = 20;
 	$result = 0.0;
